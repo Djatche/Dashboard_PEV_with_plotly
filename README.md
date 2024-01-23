@@ -1,4 +1,6 @@
-# Dashboard PEV with plotly
+# Dashboard PEV avec plotly
+
+![Dashboard](newplot(2).png "Dashboard PEV")
 
 Mensuellement les FOSA sont appelées à analyser leur donner pour prendre des décisions. Leur analyse consiste à catégoriser les aires de santé. Deux critères sont utilisé: l'accessibilité et l'utilisation du service.
 - Le taux de couverture en DCTHepBHIb1 ou PENTA1 permet d’évaluer l’accessibilité au service
