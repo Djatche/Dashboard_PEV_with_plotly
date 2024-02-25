@@ -2,7 +2,7 @@
 
 ![Dashboard](newplot(2).png "Dashboard PEV")
 
-Mensuellement les FOSA sont appelées à analyser leur donner pour prendre des décisions. Leur analyse consiste à catégoriser les aires de santé. Deux critères sont utilisé: l'accessibilité et l'utilisation du service.
+Mensuellement les FOSA sont appelées à analyser leur données pour prendre des décisions. Leur analyse consiste à catégoriser les aires de santé. Deux critères sont utilisé: l'accessibilité et l'utilisation du service.
 - Le taux de couverture en DCTHepBHIb1 ou PENTA1 permet d’évaluer l’accessibilité au service
 - Le Taux d’ abandon permet d’apprecier l’utilisation des services
 On dénombre 4 catégories:
